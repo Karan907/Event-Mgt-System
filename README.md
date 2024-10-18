@@ -44,7 +44,3 @@ npm run client
 ## Live version
 https://evnt57.herokuapp.com/
 
-## License
-This project is licensed under the MIT License
-
-MIT © [Agata Kosior](https://github.com/koko57)
